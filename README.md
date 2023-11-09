@@ -1,21 +1,27 @@
 👋 Hi, I'm **Manish Songara**!
 
-🌐 I'm passionate about **Full Stack Development** and continuously expanding my skills.
+💼 I'm a **Software Developer** with a focus on **School ERP and LMS** solutions.
 
-🚀 Currently, I'm diving deep into various technologies, including:
-- 🌟 **Laravel**
+🚀 My current tech stack includes:
 - 🌟 **PHP**
-- 🌟 **React**
-- 🌟 **React Native**
 - 🌟 **MySQL**
 
-💡 I'm on a journey to build and create amazing projects and always eager to learn more.
+👨‍💻 In my role, I'm responsible for:
+- ✅ **Developing and managing School ERP and LMS systems**.
+- ✅ **Creating new features and functionalities**.
+- ✅ **Resolving issues and improving existing systems**.
 
-🤝 I'm open to **collaborating on exciting projects** where I can both contribute and enhance my skills further.
+💡 I'm also exploring:
+- 🌱 **Laravel** for robust web development.
+- 🌱 **React Native** for cross-platform mobile app development.
+- 🌱 **Node.js** for server-side JavaScript.
+
+🤝 I'm open to collaboration and always eager to learn and innovate.
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/manish-k-songara-390432143/) and explore opportunities together!
 
 Let's code, innovate, and create a brighter future! 🚀
+
 
 
 <!---
