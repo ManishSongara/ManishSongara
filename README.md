@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @ManishSongara
-- 👀 I’m interested in full stack development 
-- 🌱 I’m currently learning Laravel, php, React, ReactNative, MySQL,
-- 💞️ I’m looking to collaborate on a project where i can Learn more
-- 📫 How to reach me 
--   LinkedIn: https://www.linkedin.com/in/manish-k-songara-390432143/
+👋 Hi, I'm **Manish Songara**!
+
+🌐 I'm passionate about **Full Stack Development** and continuously expanding my skills.
+
+🚀 Currently, I'm diving deep into various technologies, including:
+- 🌟 **Laravel**
+- 🌟 **PHP**
+- 🌟 **React**
+- 🌟 **React Native**
+- 🌟 **MySQL**
+
+💡 I'm on a journey to build and create amazing projects and always eager to learn more.
+
+🤝 I'm open to **collaborating on exciting projects** where I can both contribute and enhance my skills further.
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/manish-k-songara-390432143/) and explore opportunities together!
+
+Let's code, innovate, and create a brighter future! 🚀
+
 
 <!---
 ManishSongara/ManishSongara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
